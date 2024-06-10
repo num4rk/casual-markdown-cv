@@ -1,8 +1,8 @@
 # Staff Business Systems Analyst  
 
 ## Contact Details
-Kraków, Poland
-Email - d.gorshenin@gmail.com
+Kraków, Poland<br>
+d.gorshenin@gmail.com
 [LinkedIn](https://www.linkedin.com/in/dmitriigorshenin/)
 
 ## Profile
