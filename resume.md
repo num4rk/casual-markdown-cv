@@ -2,7 +2,9 @@
 
 ## Contact Details
 Kraków, Poland
+
 d.gorshenin@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/dmitriigorshenin/)
 
 ## Profile
