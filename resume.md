@@ -1,5 +1,3 @@
-
-
 # Staff Business Systems Analyst  
 
 ## Contact Details
@@ -7,12 +5,16 @@ Kraków, Poland
 d.gorshenin@gmail.com
 [LinkedIn](https://www.linkedin.com/in/dmitriigorshenin/)
 
-## Executive Summary
+## Profile
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+Experienced, passionate and adaptable Senior Business Systems Analyst and Product Owner with over nine years of building the software solutions.
+
+* 10 years experience in Business Analysis, Product Management, Project Management, Solution Architecture,
+Software Development;
+* 4 years experience in large-scale digital implementation and business change programs;
+* Agile and Waterfall methodologies;
+* Data model development, Micro services architecture, Solution architecture;
+* Stakeholders management
 
 ## Working Experience
 
