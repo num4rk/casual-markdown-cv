@@ -1,10 +1,11 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
-<span style="float:right;padding:6px"> 
-  d.gorshenin@gmail.com
-</span>
 
 # Staff Business Systems Analyst  
+
+## Contact Details
+Kraków, Poland
+d.gorshenin@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dmitriigorshenin/)
 
 ## Executive Summary
 
