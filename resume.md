@@ -16,6 +16,9 @@ Software Development;
 * Data model development, Micro services architecture, Solution architecture;
 * Stakeholders management
 
+## Skills
+Agile & Waterfall Methodologies, Requirements Gathering, Project Management, Problem Solving, Stakeholder Management, Microservice architecture, AWS Infrastructure, BPMN, Communication, Adaptability
+
 ## Working Experience
 
 ### Grid Dynamics (Staff Analyst 2024/04 - Present)
