@@ -17,7 +17,12 @@ Software Development;
 * Stakeholders management
 
 ## Skills
-Agile & Waterfall Methodologies, Requirements Gathering, Project Management, Problem Solving, Stakeholder Management, Microservice architecture, AWS Infrastructure, BPMN, Communication, Adaptability
+
+### Hard
+Agile & Waterfall Methodologies, Requirements Gathering, Requirements Elicitation, Project Management, Stakeholder Management, Microservice architecture, Amazon Web Services, Atlassian Jira, Confluence
+
+### Soft
+Problem Solving, Communication, Adaptability, Fast-learner, Teamwork, Creative Thinking
 
 ## Working Experience
 
