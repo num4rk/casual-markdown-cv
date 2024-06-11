@@ -1,14 +1,14 @@
 # Dmitrii Gorshenin
-## Staff Business Systems Analyst  
-
-## Contact Details
-Kraków, Poland<br>
-d.gorshenin@gmail.com<br>
+## Staff Systems Analyst  
+---
+Kraków, Poland  
+d.gorshenin@gmail.com  
++48 511306183  
 [LinkedIn](https://www.linkedin.com/in/dmitriigorshenin/)
 
 ## Profile
 
-Experienced, passionate and adaptable Senior Business Systems Analyst and Product Owner with over nine years of building the software solutions.
+Experienced, passionate and adaptable Staff Systems Analyst and Product Owner with over ten years of building the software solutions.
 
 * 10 years experience in Business Analysis, Product Management, Project Management, Solution Architecture,
 Software Development;
@@ -19,34 +19,105 @@ Software Development;
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Grid Dynamics (Staff Analyst 2024/04 - Present)
+Responsibilities:
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+    Product owner and Scrum master for the GD offshore team;
+    Production go-live support;
+    Elicited and processed the requirements (on-site, offshore);
+    Developed and prioritized backlog items;
+    Coordinated the collaboration of the team with other contractors and customer in-house teams;
+    Conducted quality assurance;
+    Developed documentation related to the team deliverables;
+    Maintained project documentation space in Confluence;
+    Mentoring;
+    Conducting technical interviews
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+#### Grid Dynamics (Senior Analyst, 2019/11 - 2024/04) 
+Achievements:
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+* Completed reverse engineering of the legacy application to extract the business rules, which unblocked the development of the solution MVP in less than a year;
+* Contributed to the digital transformation process. My team developed a lot of microservices for the complex solution for the automated processing (input, validation and augmentations) of wholesale orders;
+* Successful launch of this solution to production in of the geographical regions with no issues;
+* Helped customer to move from duplicative and disparate systems that can’t scale to modern modular and integrated tech landscape  built for agility and scalability consistent across the enterprise;
+* Rock Star Analyst of the Year (2019);
+* Analyst of the Year (2023).
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+Responsibilities:
 
-## Projects: 
+* Product owner and Scrum master for the Grid Dynamics offshore team;
+* Production go-live support;
+* Elicited and processed the requirements  (on-site, offshore);
+* Developed and prioritized backlog items;
+* Coordinated the collaboration of the team with other contractors and customer in-house teams;
+* Conducted quality assurance;
+* Developed documentation related to the team deliverables;
+* Maintained team space in customer Confluence;
+* Conducted technical interviews.
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+#### Grid Dynamics (Business/System Analyst, 2018/07 - 2019/11) 
+
+Achievements:
+
+* Contributed to the successful redesign of the Pier1.com site, conducted in a very short time, despite the outdated technology stack;
+* Developed new workflow for the Jira tickets approved by the customer;
+
+Responsibilities:
+
+* Product owner for the Grid Dynamics offshore team;
+* Scrum master for the Grid Dynamics offshore team;
+* Elicited and processed the requirements (on-site, offshore);
+* Developed and prioritized the backlog items;
+* Signed off the deliverables;
+* Conducted quality assurance;
+* Developed the documentation for the team deliverables.
+
+#### EPAM Systems (Senior Business Analyst, 2016/11 - 2018/07) 
+
+Achievements:
+
+* Successfully completed discovery phase and project setup for the  UAE payment processor Network.ae);
+* Developed the new streamlined flow for the merchants onboarding;
+* Development of the set of integration specifications (integration of Oracle ATG and SAP CRM).
+
+Responsibilities:
+
+* Developed UI specifications;
+* Contributed to the data model development;
+* Elicited, and analyzed project requirements (off-site, on-site);
+* Communicated with third-party vendors;
+* Coordinated EPAM engineering team and UX/UI team
+
+#### EPAM Systems (Business Analyst, 2016/01 - 2016/11) 
+
+* Contributed to the functional specifications development;
+* Scrum master for the engineering team;
+* Coordinated EPAM engineering team and customer BSA team;
+* Elicited and analyzed project requirements.
+
+#### Bank Otkritie Financial Corporation (Analyst Programmer, 2013/01 - 2016/01)
+System Analyst
+
+Achievements:
+
+* Contributed to the successful launch of the 3D Secure technology for  bank card products;
+* Contributed to the successful launch of the new process of plastic card emission.
+
+Responsibilities:
+
+* Elicited and analyzed business requirements;
+* Developed, improved and documented business processes.
+* Developed functional requirements specifications;
+* Developed test cases;
+* Contributed to the implementation on production environment.
+
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* Saratov State Technical University (Sep 1996 - June 2001), Information Systems Manager. Graduated with honors.
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
+* Languages: English (highly proficient), Russian (native)
 * Availability: 1 month's notice
