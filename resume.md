@@ -16,14 +16,6 @@ Software Development;
 * Data model development, Micro services architecture, Solution architecture;
 * Stakeholders management
 
-## Skills
-
-### Hard
-Agile & Waterfall Methodologies, Requirements Gathering, Requirements Elicitation, Project Management, Stakeholder Management, Microservice architecture, Amazon Web Services, Atlassian Jira, Confluence
-
-### Soft
-Problem Solving, Communication, Adaptability, Fast-learner, Teamwork, Creative Thinking
-
 ## Working Experience
 
 ### Grid Dynamics (Staff Analyst 2024/04 - Present)
@@ -114,7 +106,15 @@ Responsibilities:
 
 ## Education & Qualifications
 
-* Saratov State Technical University (Sep 1996 - June 2001), Information Systems Manager. Graduated with honors.
+* Saratov State Technical University (Information Systems Manager), Sep 1996 - June 2001. Graduated with honors.
+
+## Skills
+
+#### Hard
+Agile & Waterfall Methodologies, Requirements Gathering, Requirements Elicitation, Project Management, Stakeholder Management, Microservice architecture, Amazon Web Services, Atlassian Jira, Confluence
+
+#### Soft
+Problem Solving, Communication, Adaptability, Fast-learner, Teamwork, Creative Thinking, Critical Thinking, Emotional intelligence
 
 ## Miscellaneous Information
 
