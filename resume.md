@@ -9,7 +9,7 @@
 ## Professional Summary
 Experienced, passionate and adaptable Staff Systems Analyst and Product Owner with over ten years of building the software solutions.
 
-* 10 years experience in Business Analysis, Product Management, Project Management, Solution Architecture,
+* 12 years experience in Business and Systems Analysis, Product Management, Project Management, Solution Architecture,
 Software Development;
 * 5 years experience in large-scale digital implementation and business change programs;
 * Agile and Waterfall methodologies;
